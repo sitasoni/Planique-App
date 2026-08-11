@@ -32,3 +32,24 @@ val Typography = Typography(
     )
     */
 )
+
+val AppTypography = Typography(
+    headlineLarge = TextStyle(
+        fontSize = 30.sp,
+        fontWeight = FontWeight.Bold
+    ),
+    titleLarge = TextStyle(
+        fontSize = 22.sp,
+        fontWeight = FontWeight.SemiBold
+    ),
+    bodyLarge = TextStyle(
+        fontSize = 16.sp
+    ),
+    bodyMedium = TextStyle(
+        fontSize = 14.sp
+    ),
+    labelLarge = TextStyle(
+        fontSize = 14.sp,
+        fontWeight = FontWeight.Medium
+    )
+)
