@@ -1,0 +1,62 @@
+STEP 1
+Project structure
+       ↓
+STEP 2
+Theme / Colors / Dimensions
+       ↓
+STEP 3
+Navigation
+       ↓
+STEP 4
+Home Screen
+       ↓
+STEP 5
+Room Database
+       ↓
+STEP 6
+Notes
+       ↓
+STEP 7
+To-Do
+       ↓
+STEP 8
+Calendar
+       ↓
+STEP 9
+Calculator
+       ↓
+STEP 10
+Splitwise
+       ↓
+STEP 11
+Counter
+       ↓
+STEP 12
+Profile
+       ↓
+STEP 13
+Settings
+       ↓
+STEP 14
+About
+       ↓
+STEP 15
+Testing + Optimization
+       ↓
+STEP 16
+Release
+
+
+
+| Usage                      | Color                           | HEX         |
+| -------------------------- | ------------------------------- | ----------- |
+| 🟧 Main background / Coral | `RGB(230, 129, 101)`            | **#E68165** |
+| 🟠 Light Coral             | `RGB(227, 146, 118)`            | **#E39276** |
+| 🟨 Gold / Yellow           | `RGB(219, 176, 80)`             | **#DBB050** |
+| 🟨 Light Gold              | `RGB(229, 187, 115)`            | **#E5BB73** |
+| 🟤 Terracotta / Brown      | `RGB(200, 131, 96)`             | **#C88360** |
+| 🤎 Dark Brown              | `RGB(168, 111, 64)`             | **#A86F40** |
+| 🤍 App/Card Background     | `RGB(255, 255, 255)`            | **#FFFFFF** |
+| 🤍 Soft Off-White          | `RGB(247, 240, 232)`            | **#F7F0E8** |
+| 🩶 Muted Gray/Teal         | `RGB(107, 131, 129)`            | **#6B8381** |
+| ⚫ Dark Text                | approximately `RGB(94, 58, 28)` | **#5E3A1C** |

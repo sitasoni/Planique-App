@@ -1,4 +1,4 @@
-package com.ss.planique
+package com.ss.planique.data.model
 
 data class Note(
     val id : Long = 1L,

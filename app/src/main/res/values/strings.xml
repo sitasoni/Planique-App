@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Planique</string>
+    <string name="app_moto">Planique of Unique</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>
